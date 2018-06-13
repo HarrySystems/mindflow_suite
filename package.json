@@ -1,6 +1,6 @@
 {
   "name": "mindflow_suite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Collection of common modules for mindflow architecture",
   "main": "mindflow_suite.js",
   "scripts": {
