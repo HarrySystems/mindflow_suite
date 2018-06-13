@@ -1,0 +1,25 @@
+{
+  "name": "mindflow_suite",
+  "version": "1.0.0",
+  "description": "Collection of common modules for mindflow architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrysystems/mindflow_suite.git"
+  },
+  "author": "HarrySystems",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harrysystems/mindflow_suite/issues"
+  },
+  "homepage": "https://github.com/harrysystems/mindflow_suite#readme",
+  "dependencies": {
+    "mindflow": "^1.0.1",
+    "mindflow_input": "^1.0.2",
+    "mindflow_log": "^1.0.0",
+    "mindflow_pipeline": "^1.0.1"
+  }
+}
