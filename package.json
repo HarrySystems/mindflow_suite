@@ -2,7 +2,7 @@
   "name": "mindflow_suite",
   "version": "1.0.0",
   "description": "Collection of common modules for mindflow architecture",
-  "main": "index.js",
+  "main": "mindflow_suite.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
